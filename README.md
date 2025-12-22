@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm [Saurabh](https://www.saurabhs.cloud/), a full-stack engineer based in India.
+
+I build whatever I can imagine and try to turn it into product.
+
+If an idea pops into my head, chances are I'll build it and shipt it.
+
+My main tech stack is React, typescript, tailwind, NextJS, nodejs, express, postgresql, prisma, docker.
+
+I've got a bunch of pinned projects, but my favourite is the [].
+
+I've  built over 10 public repos, but privately... It's probably more than 100 at this point.
+
+**Fun Facts:**
+
+- Loves Bikes
+- Touring
+- Adventures
+- Philosphy
+- Gym
