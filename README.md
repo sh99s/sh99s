@@ -18,7 +18,7 @@ I'm [Saurabh](https://www.saurabhs.cloud/), a full-stack engineer based in India
 
 I build whatever I can imagine and try to turn it into a product.
 
-If an idea pops into my head, chances are I'll build it and shipt it.
+If an idea pops into my head, chances are I'll build it and ship it.
 
 My main tech stack is React, typescript, tailwind, NextJS, nodejs, express, postgresql, prisma, docker.
 
