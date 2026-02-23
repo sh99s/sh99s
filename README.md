@@ -30,6 +30,5 @@ I've  built over 10 public repos, but privately... It's probably more than 100 a
 
 - Loves Bikes
 - Touring
-- Adventures
-- Philosphy
-- Gym
+- Gaming
+- WWE 
